@@ -33,7 +33,7 @@ The goal is to answer real-world business questions and gain insights from histo
 
 ## 📷 Dashboard Preview
 
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./screenshots/dashboard.jpg)
 
 ## 📂 Files Included
 - `Superstore_Clean_Insights.xlsx` – Excel file with helper columns and pivots
